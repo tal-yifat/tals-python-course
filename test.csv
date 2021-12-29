@@ -1,0 +1,6 @@
+,age,capital-gain,capital-loss,education,education-num,fnlwgt,hours-per-week,marital-status,native-country,occupation,race,relationship,sex,workclass,target
+38113,41,0,0,HS-grad,9,"2,075,872",40,Married,United-States,Protective-serv,White,Husband,Male,Private,0
+39214,57,0,0,Doctorate,16,"1,197,273",25,Divorced,United-States,Prof-specialty,White,Not-in-family,Female,Self-emp-not-inc,0
+44248,31,6849,0,Bachelors,13,"3,016,545",40,Never-married,United-States,Prof-specialty,White,Own-child,Female,Local-gov,0
+10283,55,0,0,Assoc-voc,11,"2,342,423",20,Married,United-States,Machine-op-inspct,White,Husband,Male,Private,0
+26724,59,0,0,10th,6,"2,031,717",40,Married,United-States,Farming-fishing,White,Husband,Male,Self-emp-not-inc,0
